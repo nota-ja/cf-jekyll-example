@@ -16,4 +16,4 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-exclude: [vendor, Gemfile, Gemfile.lock]
+exclude: [vendor, Gemfile, Gemfile.lock, Staticfile]
